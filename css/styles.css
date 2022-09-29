@@ -40,22 +40,16 @@ img {
 .skill-row {
   margin: 100px auto 100px auto;
   width: 50%;
-  text-align: left;
-
 }
 
 .html-logo {
   width: 150px;
   height: 150px;
-  float: left;
-  margin: auto 30px 30px auto;
 }
 
 .pizza-logo {
   width: 150px;
   height: 150px;
-  float: right;
-  margin: auto 30px 30px auto;
 }
 
 .bottom-container {
